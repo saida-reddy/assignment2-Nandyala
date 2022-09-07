@@ -30,5 +30,18 @@ The closest airport near to the museum is chennai international airport
  * Children Museum
 
  **[My data](AboutMe.md)**
- 
+
+
+
+
+
+ ### Tables
+
+
+   | Name of the city | Location      | time to spend|
+   | ---------------- |--------------- -------------|
+   | NEW YORK         |Time square    |   1hr       |
+   | Chicago          |Millennium park|   2hrs      |
+   |Washington D.C    |White House    |   30min     |
+   |Kansas City       |Wichitha Gardens|  3hrs      |
  
