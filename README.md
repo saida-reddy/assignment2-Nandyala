@@ -52,10 +52,19 @@ The closest airport near to the museum is chennai international airport
  > 2. "In a day, when you don't come across any problems - you can be sure that you are travelling in a wrong path." -Swami Vivekananda
 
 
+----------
+### Code Fencing
 
- 
+> To know more about JavaScript click here  <https://en.wikipedia.org/wiki/JavaScript>
 
+const originalString = `
+  <div>
+    <p>Hey that's <span>somthing</span></p>
+  </div>
+`;
 
+const strippedString = originalString.replace(/(<([^>]+)>)/gi, "");
 
+console.log(strippedString);
 
-
+#### quick link : <https://css-tricks.com/snippets/javascript/strip-html-tags-in-javascript/>
