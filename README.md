@@ -44,4 +44,18 @@ The closest airport near to the museum is chennai international airport
    | Chicago          |Millennium park|   2hrs      |
    |Washington D.C    |White House    |   30min     |
    |Kansas City       |Wichitha Gardens|  3hrs      |
+
+
+ ### Pithy qoutes
+ > 1. “In a conflict between the heart and the brain, follow your heart. ”  -Swami Vivekananda
+   
+ > 2. "In a day, when you don't come across any problems - you can be sure that you are travelling in a wrong path." -Swami Vivekananda
+
+
+
  
+
+
+
+
+
